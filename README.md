@@ -1,1 +1,2 @@
 # latihanlinux
+ini latihan
